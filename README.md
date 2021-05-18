@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @m1ggy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS, Firebase, ML Frameworks!
+- 🥇 I'm currently a 4th Year Information Technology Student at Laguna State Polytechnic University
 - 📫 You can reach me at miguel.buising@lspu.edu.ph
 
 <!---
