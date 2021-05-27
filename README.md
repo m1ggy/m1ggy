@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel Buising
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS, Redux, Mongoose and Express
+- 👀 I’m currently aiming to be a Front End Web Developer
+- 🌱 I’m currently studying React JS, Redux, Mongoose and Express
 - 🥇 I'm currently a 4th Year Information Technology Student at Laguna State Polytechnic University
 - 📫 You can reach me at miguel.buising@lspu.edu.ph
 
