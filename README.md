@@ -1,7 +1,18 @@
+# Mabuhay! 😁
 - 👋 Hi, I’m Miguel Buising
-- 🌱 I’m currently studying React JS
 - 🥇 I'm currently a 4th Year Information Technology Student at Laguna State Polytechnic University
 - 📫 You can reach me at miguel.buising@lspu.edu.ph
+## Tech Stack 👩‍💻
+- ReactJS
+- Firebase
+- Redux Toolkit
+- MongoDb
+- Express
+- NodeJS
+- Netlify
+- Heroku
+- Bootstrap
+
 
 <!---
 m1ggy/m1ggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
