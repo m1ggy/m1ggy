@@ -7,8 +7,6 @@
 - Firebase
 - Redux Toolkit
 - MongoDb
-- Express
-- NodeJS
 - Netlify
 - Heroku
 - Bootstrap
