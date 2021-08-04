@@ -6,9 +6,6 @@
 - ReactJS
 - Firebase
 - Redux Toolkit
-- MongoDb
-- Netlify
-- Heroku
 - Bootstrap
 
 
