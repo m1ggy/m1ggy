@@ -1,7 +1,7 @@
 # Mabuhay! 😁
 - 👋 Hi, I’m Miguel Buising
 - 📫 You can reach me at miguel.buising1@gmail.com
-- 𝓪𝓿𝓮𝓻𝓪𝓰𝓮 𝓻𝓮𝓪𝓬𝓽 𝓮𝓷𝓳𝓸𝔂𝓮𝓻
+
 
 
 <!---
