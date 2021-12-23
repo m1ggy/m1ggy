@@ -1,4 +1,4 @@
-# Mabuhay! 😁
+# Hello! 😁
 - 👋 Hi, I’m Miguel Buising
 - 📫 You can reach me at miguel.buising1@gmail.com
 
