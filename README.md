@@ -3,7 +3,7 @@
 - 📫 You can reach me at miguel.buising1@gmail.com
 
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ggy&count_private=true)
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ggy&count_private=true&show_icons=true&theme=dracula)
 
 <!---
 m1ggy/m1ggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
